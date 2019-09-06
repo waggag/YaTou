@@ -1,0 +1,5 @@
+cn\waggag\yatou\framework\config\ApplicationConfig.class
+cn\waggag\yatou\framework\config\SwaggerConfig.class
+cn\waggag\yatou\YaTouApplication.class
+cn\waggag\yatou\framework\config\YaTouConfig.class
+cn\waggag\yatou\framework\config\DruidConfiguration.class
